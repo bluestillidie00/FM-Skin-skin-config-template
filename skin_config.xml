@@ -1,0 +1,34 @@
+﻿<record>
+	<!--  
+	 ============================================================
+	 Basic Skin Details
+	 	 The commands in this file are only used to describe the skin. 
+	 Settings should be placed in the file "skins/<skin>/settings/<skin> settings.xml",
+	 where <skin> is the name of the skin.
+	 	 ============================================================ 
+	 -->
+
+	<!-- PLEASE READ -->
+	<!-- THIS FILE IS A TEMPLATE FILE TO HELP PEOPLE MAKING SKINS
+	 			FILL OUT ALL OF THE FOLLOWING STRINGS BELOW
+	-->
+
+	<!-- WHAT SHOWS IN DROP DOWN IN GAME -->
+	<string id="name" value="" />
+	<string id="author" value="" />
+	<translation id="description" type="use" value="" />
+
+	<!-- HOW THE GAME IDENTIFIES THE SKIN. -->
+	<string id="skin_name" value="" />
+
+	<!-- PARENT SKIN -->
+	<!-- RECOMMENDED TO KEEP AS FM -->
+	<flags id="parent" value="fm" />
+
+	<!-- THIS WILL NEED TO BE UPDATED YEARLY -->
+	<string id="required_version" value="22.0.0" />
+
+	<!-- UNSURE AS TO WHETHER THE GAME ACTUALLY USES THIS  -->
+	<string id="version" value="0.01" />
+
+</record>
